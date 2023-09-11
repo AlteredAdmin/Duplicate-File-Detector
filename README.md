@@ -6,7 +6,6 @@
 **Date:** July 20, 2022  
 **Website:** [Altered Admin's Site](https://alteredadmin.github.io)  
 **Twitter:** [@Alt3r3dAdm1n](https://twitter.com/Alt3r3dAdm1n)  
-**More info:** [GitHub Pages](https://alteredadmin.github.io/)
 
 ---
 
