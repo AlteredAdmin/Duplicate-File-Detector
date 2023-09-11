@@ -52,6 +52,7 @@ python DuplicateFileFinder.py
 3. When prompted, enter the directory path where you wish to search for duplicates. During its execution, the script prints out the file paths of the files it is currently scanning, so users can observe its progress.
 
 ---
+<!---
 
 ### Support the Developer
 
@@ -61,6 +62,7 @@ If you found this helpful, please consider:
 - **BTC:** `bc1qhkw7kv9dtdk8xwvetreya2evjqtxn06cghyxt7`
 - **LTC:** `ltc1q2mrh9s8sgmh8h5jtra3gqxuhvy04vuagpm3dk9`
 - **ETH:** `0xef053b0d936746Df00C9CCe0454b7b8afb1497ac`
+-->
 
 ---
 
